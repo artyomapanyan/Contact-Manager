@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ontact-manager/static/css/main.1f6e8f16.chunk.css",
+    "main.js": "/ontact-manager/static/js/main.d1871fc2.chunk.js",
+    "main.js.map": "/ontact-manager/static/js/main.d1871fc2.chunk.js.map",
+    "runtime-main.js": "/ontact-manager/static/js/runtime-main.7df1fba9.js",
+    "runtime-main.js.map": "/ontact-manager/static/js/runtime-main.7df1fba9.js.map",
+    "static/js/2.fc0649bd.chunk.js": "/ontact-manager/static/js/2.fc0649bd.chunk.js",
+    "static/js/2.fc0649bd.chunk.js.map": "/ontact-manager/static/js/2.fc0649bd.chunk.js.map",
+    "index.html": "/ontact-manager/index.html",
+    "static/css/main.1f6e8f16.chunk.css.map": "/ontact-manager/static/css/main.1f6e8f16.chunk.css.map",
+    "static/js/2.fc0649bd.chunk.js.LICENSE.txt": "/ontact-manager/static/js/2.fc0649bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7df1fba9.js",
+    "static/js/2.fc0649bd.chunk.js",
+    "static/css/main.1f6e8f16.chunk.css",
+    "static/js/main.d1871fc2.chunk.js"
+  ]
+}
