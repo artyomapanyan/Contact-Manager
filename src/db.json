@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "id": "contact2",
+      "firstName": "Aramo",
+      "lastName": "Gasparyan",
+      "email": "gasparyan@gmail.com",
+      "primaryNumber": "044-09-08-05",
+      "workNumber": "041-09-08-05",
+      "notes": "Sport"
+    },
+    {
+      "id": "contact3",
+      "firstName": "Arsen",
+      "lastName": "Mkrtchyants",
+      "email": "mkrtchyan@gmail.com",
+      "primaryNumber": "094-07-08-77",
+      "workNumber": "041-09-08-05",
+      "notes": "lawer"
+    },
+    {
+      "id": "contact4",
+      "firstName": "Artak",
+      "lastName": "Hovhannisyan",
+      "email": "hovhannisyan@gmail.com",
+      "primaryNumber": "099-55-44-88",
+      "workNumber": "098-55-44-88",
+      "notes": "lecturer"
+    },
+    {
+      "id": "contact5",
+      "firstName": "Arsen",
+      "lastName": "Hovhannisyan",
+      "email": "hovhannisyan@gmail.com",
+      "primaryNumber": "099-88-44-88",
+      "workNumber": "098-99-44-88",
+      "notes": "any"
+    }
+  ]
+}

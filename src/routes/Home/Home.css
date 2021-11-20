@@ -1,0 +1,143 @@
+.header {
+    border: 1px solid black;
+    height: 120px;
+    background-color: rgb(81, 83, 83);
+    border-bottom: none;
+}
+
+.div-fon {
+    background-color: rgb(81, 83, 83);
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    
+}
+
+.div-himnakan {
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: rgb(250, 247, 244);
+    border-radius: 15px 15px 0px 0px;
+    display: flex;
+    
+}
+
+.contact-manager {
+    align-content: center;
+    margin-left: 80px;
+    font-size: 40px;
+    display: inline-block;
+    font-family: cursive;
+    color: cornsilk;
+    
+}   
+
+
+.del-link {
+    
+    
+    margin-left: 85%;
+    margin-top: -48px;
+}
+.search-input {
+    margin-left: 80px;
+    margin-top: 20px;
+    padding: 7px;
+    padding-right: 105px;
+    font-size: 14px;
+    border: 1px solid black;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.div-search-inline, .div-icon-search {
+    display: inline-block;
+}
+
+.div-icon-search {
+    display: inline-block;
+    border: 1px solid black;
+    padding-top: 3px;
+    padding-bottom: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: blanchedalmond;
+    border-radius: 0px 5px 5px 0px;
+    align-content: center;
+
+}
+
+.icon-link-add-contact {
+    border:1px solid black;
+    width: 82px;
+    height: 20px;
+    font-size: 12px;
+    background-color: rgb(240, 240, 240);
+    padding-left: 5px;
+    color: black;
+    
+}
+
+.link-add-contact {
+    text-decoration: none; 
+}
+
+.div-search-reset-btn {
+    display: inline-block;
+    margin-bottom: -11px;
+}
+
+.btn-search {
+    padding: 6px;
+    margin-left: 15px;
+    float: left;
+}
+
+.input-checkbox {
+    margin-left: 417px;
+    margin-top: 30px;
+    /* display: inline-block; */
+}
+
+.icon-add-contact {
+    font-size: 15px;
+}
+
+.div-inner-himnakan {
+    padding-bottom: 40px;
+    height: 100%;
+    
+}
+
+.div-futer {
+    border: 1px solid black;
+    height: 70px;
+    background-color: rgb(31, 29, 29);
+    
+}
+
+.p-futer {
+    color: cornsilk;
+    font-weight: 600;
+    text-align: center;
+}
+
+.div-right {
+    
+    height: 500px;
+    width: 40%;
+    margin-left: 200px;
+    display: inline-block;
+
+}
+
+.p-select-all {
+     
+     margin-top: 24px;
+     font-weight: 500;
+     font-family: italic;
+     font-size: 18px;
+}
+
+.div-checkbox-p {
+    display: flex;
+}
+

@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "firstName": "Armen",
+      "lastName": "Sargsyan",
+      "email": "president@gmail.com",
+      "primaryNumber": "077-07-07-08",
+      "workNumber": "041-09-08-05",
+      "notes": "Sportsman",
+      "id": 1
+    },
+    {
+      "firstName": "Armen",
+      "lastName": "Gasparyan",
+      "email": "president@gmail.com",
+      "primaryNumber": "077-07-07-08",
+      "workNumber": "041-09-08-05",
+      "notes": "President of RA",
+      "id": 2
+    },
+    {
+      "firstName": "Aram",
+      "lastName": "sdff",
+      "email": "artyomapanyan1@mail.ru",
+      "primaryNumber": "077-07-07-08",
+      "workNumber": "041-09-08-05",
+      "notes": "nnnn",
+      "id": 3
+    },
+    {
+      "firstName": "sof",
+      "lastName": "sdff",
+      "email": ".kjgkj",
+      "primaryNumber": "klhgiug",
+      "workNumber": "ygigytg",
+      "notes": "ghfjfkhj",
+      "id": 4
+    }
+  ],
+  "details": [
+    {
+      "id": "contact6",
+      "gitHub": "aaa",
+      "skype": "qqq"
+    }
+  ]
+}
